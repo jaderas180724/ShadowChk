@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-dark-bg { background-color: #0d1117; }
+.card-bg { background-color: #161b22; }
+.text-accent, .text-red-500 { color: #e94560; }
+.text-f6f6fc { color: #f0f6fc; }
+.border-gray-800 { border-color: #30363d; }
+.hover\:bg-red-600:hover { background-color: #cf222e; }
+
+main::-webkit-scrollbar { display: none; }
